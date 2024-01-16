@@ -1,10 +1,10 @@
 # GPT-Hackathon - Chess network analysis
-My submission for a GPT themed hackathon in NYC.
+My submission for a GPT themed hackathon in NYC (3rd place winner)
 
-This code was 100% written by ChatGPT and lots of prompting
+This code was 100% written by ChatGPT and lots of prompting. I genuinely don't know how some of the code works, chatgpt is just that good.
 
 # Overview
-This repo contains a script that that uses chess.pgn, networkx, and matplotlib to connect chess games together from a very large pgn file. The script creates a directed graph with players as nodes and their game outcomes as edges. 
+This repo contains a script that that uses chess.pgn, networkx, and matplotlib to connect chess games together from a large pgn file. The script creates a directed graph with players as nodes and their game outcomes as edges. 
 
 # Installation
 To run this you just need to install pip install chess, networkx, and matplotlib
